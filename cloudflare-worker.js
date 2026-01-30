@@ -5,7 +5,7 @@
 // ============================================
 
 // ⚠️ GANTI INI DENGAN USERNAME SAWERIA KAMU!
-const SAWERIA_STREAM_ID = "atasatap";
+const SAWERIA_STREAM_ID = "boiztakeover";
 
 export default {
   async fetch(request, env, ctx) {
